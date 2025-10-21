@@ -1,25 +1,8 @@
-# Nuxt dev/build outputs
-.output
-.data
-.nuxt
-.nitro
-.cache
-dist
-
-# Node dependencies
-node_modules
-
-# Logs
-logs
-*.log
-
-# Misc
-.DS_Store
-.fleet
-.idea
-
-# Local env files
-.env
-.env.*
-!.env.example
-
+# DRM Runner 관련
+/drm-runner/node_modules/
+/drm-runner/.env
+/drm-runner/.DS_Store
+/drm-runner/pnpm-lock.yaml
+/drm-runner/package-lock.json
+/drm-runner/yarn.lock
+/drm-runner/dist/
