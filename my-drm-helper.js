@@ -1,6 +1,6 @@
 import CryptoJS from "crypto-js";
 
-export class MyDrmHelper {
+export default class MyDrmHelper {
     constructor() {
         this.siteId = process.env.DRM_SITE_ID;
         this.accessKey = process.env.DRM_ACCESS_KEY;
