@@ -1,8 +1,8 @@
 # DRM Runner 관련
-/drm-runner/node_modules/
-/drm-runner/.env
-/drm-runner/.DS_Store
-/drm-runner/pnpm-lock.yaml
-/drm-runner/package-lock.json
-/drm-runner/yarn.lock
-/drm-runner/dist/
+/node_modules/
+/.env
+/.DS_Store
+/pnpm-lock.yaml
+/package-lock.json
+/yarn.lock
+/dist/
